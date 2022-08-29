@@ -1,2 +1,2 @@
-# github-sample
-sample java project
+# github-sp
+sample sp project -poc
